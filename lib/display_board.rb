@@ -9,5 +9,5 @@ def display_board(board)
 end
 
 
-board = ["X","X","X"," "," "," ","O"," "," "," ",]
+board = [" X "," X "," X "," "," "," "," O"," "," "," ",]
 display_board(board)
